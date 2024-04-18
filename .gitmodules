@@ -1,0 +1,6 @@
+[submodule "EG_SGSI_intranet"]
+	path = EG_SGSI_intranet
+	url = https://github.com/skrmars/EG_SGSI_intranet.git
+[submodule "SGSI_formato"]
+	path = SGSI_formato
+	url = https://github.com/skrmars/SGSI_formato.git
